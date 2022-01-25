@@ -1,8 +1,7 @@
 # arabic-token
 
 Total Supply 170,000,000,  
-Name: Arabic Cash,  
-Token Ticker: ABIC,  
+Name: Arabic Cash, Token Ticker: ABIC,  
 Contract: https://bscscan.com/token/0x4823A096382f4Fa583b55d563afb9F9a58C72FC0. 
 
 # Technology DeFi
