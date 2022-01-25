@@ -1,4 +1,5 @@
 # arabic-token
+# Technology
 
 DeFi - Decentralized Finance is a new standard in the e-commerce world, evolving within the framework of the Web 3.0 concept. In April 2021, the capitalization of DeFi projects reached an incredible $60 billion.
 
