@@ -1,4 +1,4 @@
-# arabic-token
+# Arabic-Token
 
 Total Supply 170,000,000,  
 Name: Arabic Cash, Token Ticker: ABIC,  
