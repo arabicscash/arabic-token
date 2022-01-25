@@ -1,5 +1,5 @@
 # Arabic-Token
-![Arabic Cash](https://a-journal.info/wp-content/uploads/2021/05/Arabic-Cash.jpg)
+![Arabic Cash](68747470733a2f2f612d6a6f75726e616c2e696e666f2f77702d636f6e74656e742f75706c6f6164732f323032312f30352f4172616269632d436173682e6a7067.jpeg)
 Total Supply 170,000,000,  
 Name: Arabic Cash, Token Ticker: ABIC,  
 Contract: https://bscscan.com/token/0x4823A096382f4Fa583b55d563afb9F9a58C72FC0. 
